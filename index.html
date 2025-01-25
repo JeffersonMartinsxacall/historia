@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gerador de Histórias Infantis</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Crie uma História Personalizada</h1>
+    <form id="storyForm">
+      <label for="token">Token de Acesso:</label>
+      <input type="text" id="token" name="token" required>
+
+      <label for="childName">Nome da Criança Principal:</label>
+      <input type="text" id="childName" name="childName" required>
+
+      <label for="additionalChildren">Nomes de Crianças Adicionais (opcional):</label>
+      <input type="text" id="additionalChildren" name="additionalChildren" placeholder="Separe por vírgulas">
+
+      <label for="theme">Tema da História:</label>
+      <input type="text" id="theme" name="theme" required>
+
+      <button type="submit">Criar História</button>
+    </form>
+
+    <div id="storyResult" class="hidden">
+      <h2>Sua História:</h2>
+      <p id="storyText"></p>
+      <img id="storyImage" src="" alt="Ilustração da história">
+    </div>
+  </div>
+
+  <link rel="stylesheet" href="style.css">
+<script src="script.js"></script>
+<script src="script-tokens.js"></script>
+</body>
+</html>

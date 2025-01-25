@@ -1,0 +1,564 @@
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/viplixco/tarifaminima.top/historia/server.js:1:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'express'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/viplixco/tarifaminima.top/historia/server.js:1:17)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'sequelize'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/viplixco/tarifaminima.top/historia/config/db.js:1:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'sequelize'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/viplixco/tarifaminima.top/historia/config/db.js:1:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'sequelize'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/viplixco/tarifaminima.top/historia/config/db.js:1:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'sequelize'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/viplixco/tarifaminima.top/historia/config/db.js:1:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'sequelize'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/viplixco/tarifaminima.top/historia/config/db.js:1:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'sequelize'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/viplixco/tarifaminima.top/historia/config/db.js:1:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'sequelize'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/viplixco/tarifaminima.top/historia/config/db.js:1:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'sequelize'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/viplixco/tarifaminima.top/historia/config/db.js:1:23)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+/home/viplixco/nodevenv/tarifaminima.top/historia/10/lib/node_modules/openai/index.js:66
+    constructor({ baseURL = Core.readEnv('OPENAI_BASE_URL'), apiKey = Core.readEnv('OPENAI_API_KEY'), organization = Core.readEnv('OPENAI_ORG_ID') ?? null, project = Core.readEnv('OPENAI_PROJECT_ID') ?? null, ...opts } = {}) {
+                                                                                                                                                    ^
+
+SyntaxError: Unexpected token ?
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/viplixco/tarifaminima.top/historia/utils/openai.js:1:16)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/viplixco/nodevenv/tarifaminima.top/historia/10/lib/node_modules/openai/index.js:66
+    constructor({ baseURL = Core.readEnv('OPENAI_BASE_URL'), apiKey = Core.readEnv('OPENAI_API_KEY'), organization = Core.readEnv('OPENAI_ORG_ID') ?? null, project = Core.readEnv('OPENAI_PROJECT_ID') ?? null, ...opts } = {}) {
+                                                                                                                                                    ^
+
+SyntaxError: Unexpected token ?
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/viplixco/tarifaminima.top/historia/utils/openai.js:1:16)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/viplixco/nodevenv/tarifaminima.top/historia/10/lib/node_modules/openai/index.js:66
+    constructor({ baseURL = Core.readEnv('OPENAI_BASE_URL'), apiKey = Core.readEnv('OPENAI_API_KEY'), organization = Core.readEnv('OPENAI_ORG_ID') ?? null, project = Core.readEnv('OPENAI_PROJECT_ID') ?? null, ...opts } = {}) {
+                                                                                                                                                    ^
+
+SyntaxError: Unexpected token ?
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/viplixco/tarifaminima.top/historia/utils/openai.js:1:16)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/viplixco/nodevenv/tarifaminima.top/historia/10/lib/node_modules/openai/index.js:66
+    constructor({ baseURL = Core.readEnv('OPENAI_BASE_URL'), apiKey = Core.readEnv('OPENAI_API_KEY'), organization = Core.readEnv('OPENAI_ORG_ID') ?? null, project = Core.readEnv('OPENAI_PROJECT_ID') ?? null, ...opts } = {}) {
+                                                                                                                                                    ^
+
+SyntaxError: Unexpected token ?
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/viplixco/tarifaminima.top/historia/utils/openai.js:1:16)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/viplixco/nodevenv/tarifaminima.top/historia/10/lib/node_modules/openai/index.js:66
+    constructor({ baseURL = Core.readEnv('OPENAI_BASE_URL'), apiKey = Core.readEnv('OPENAI_API_KEY'), organization = Core.readEnv('OPENAI_ORG_ID') ?? null, project = Core.readEnv('OPENAI_PROJECT_ID') ?? null, ...opts } = {}) {
+                                                                                                                                                    ^
+
+SyntaxError: Unexpected token ?
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/viplixco/tarifaminima.top/historia/utils/openai.js:1:16)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/viplixco/nodevenv/tarifaminima.top/historia/10/lib/node_modules/openai/index.js:66
+    constructor({ baseURL = Core.readEnv('OPENAI_BASE_URL'), apiKey = Core.readEnv('OPENAI_API_KEY'), organization = Core.readEnv('OPENAI_ORG_ID') ?? null, project = Core.readEnv('OPENAI_PROJECT_ID') ?? null, ...opts } = {}) {
+                                                                                                                                                    ^
+
+SyntaxError: Unexpected token ?
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/viplixco/tarifaminima.top/historia/utils/openai.js:1:16)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/viplixco/nodevenv/tarifaminima.top/historia/10/lib/node_modules/openai/index.js:66
+    constructor({ baseURL = Core.readEnv('OPENAI_BASE_URL'), apiKey = Core.readEnv('OPENAI_API_KEY'), organization = Core.readEnv('OPENAI_ORG_ID') ?? null, project = Core.readEnv('OPENAI_PROJECT_ID') ?? null, ...opts } = {}) {
+                                                                                                                                                    ^
+
+SyntaxError: Unexpected token ?
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/viplixco/tarifaminima.top/historia/utils/openai.js:1:16)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+/home/viplixco/nodevenv/tarifaminima.top/historia/10/lib/node_modules/openai/index.js:66
+    constructor({ baseURL = Core.readEnv('OPENAI_BASE_URL'), apiKey = Core.readEnv('OPENAI_API_KEY'), organization = Core.readEnv('OPENAI_ORG_ID') ?? null, project = Core.readEnv('OPENAI_PROJECT_ID') ?? null, ...opts } = {}) {
+                                                                                                                                                    ^
+
+SyntaxError: Unexpected token ?
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/viplixco/tarifaminima.top/historia/utils/openai.js:1:16)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+Erro ao conectar ao banco de dados: HostNotFoundError [SequelizeHostNotFoundError]: getaddrinfo ENOTFOUND DB_HOST
+    at ConnectionManager.connect (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/mysql/connection-manager.js:96:17)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async ConnectionManager._connect (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:222:24)
+    at async /home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:174:32
+    at async ConnectionManager.getConnection (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:197:7)
+    at async /home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/sequelize.js:305:26
+    at async MySQLQueryInterface.tableExists (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/query-interface.js:102:17)
+    at async Function.sync (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/model.js:939:21)
+    at async Sequelize.sync (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/sequelize.js:377:9) {
+  parent: Error: getaddrinfo ENOTFOUND DB_HOST
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'DB_HOST',
+    fatal: true
+  },
+  original: Error: getaddrinfo ENOTFOUND DB_HOST
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'DB_HOST',
+    fatal: true
+  }
+}
+Erro ao conectar ao banco de dados: HostNotFoundError [SequelizeHostNotFoundError]: getaddrinfo ENOTFOUND DB_HOST
+    at ConnectionManager.connect (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/mysql/connection-manager.js:96:17)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async ConnectionManager._connect (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:222:24)
+    at async /home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:174:32
+    at async ConnectionManager.getConnection (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:197:7)
+    at async /home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/sequelize.js:305:26
+    at async MySQLQueryInterface.tableExists (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/query-interface.js:102:17)
+    at async Function.sync (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/model.js:939:21)
+    at async Sequelize.sync (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/sequelize.js:377:9) {
+  parent: Error: getaddrinfo ENOTFOUND DB_HOST
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'DB_HOST',
+    fatal: true
+  },
+  original: Error: getaddrinfo ENOTFOUND DB_HOST
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'DB_HOST',
+    fatal: true
+  }
+}
+Erro ao conectar ao banco de dados: HostNotFoundError [SequelizeHostNotFoundError]: getaddrinfo ENOTFOUND DB_HOST
+    at ConnectionManager.connect (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/mysql/connection-manager.js:96:17)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async ConnectionManager._connect (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:222:24)
+    at async /home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:174:32
+    at async ConnectionManager.getConnection (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:197:7)
+    at async /home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/sequelize.js:305:26
+    at async MySQLQueryInterface.tableExists (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/query-interface.js:102:17)
+    at async Function.sync (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/model.js:939:21)
+    at async Sequelize.sync (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/sequelize.js:377:9) {
+  parent: Error: getaddrinfo ENOTFOUND DB_HOST
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'DB_HOST',
+    fatal: true
+  },
+  original: Error: getaddrinfo ENOTFOUND DB_HOST
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'DB_HOST',
+    fatal: true
+  }
+}
+Erro ao conectar ao banco de dados: HostNotFoundError [SequelizeHostNotFoundError]: getaddrinfo ENOTFOUND DB_HOST
+    at ConnectionManager.connect (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/mysql/connection-manager.js:96:17)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async ConnectionManager._connect (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:222:24)
+    at async /home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:174:32
+    at async ConnectionManager.getConnection (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:197:7)
+    at async /home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/sequelize.js:305:26
+    at async MySQLQueryInterface.tableExists (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/query-interface.js:102:17)
+    at async Function.sync (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/model.js:939:21)
+    at async Sequelize.sync (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/sequelize.js:377:9) {
+  parent: Error: getaddrinfo ENOTFOUND DB_HOST
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'DB_HOST',
+    fatal: true
+  },
+  original: Error: getaddrinfo ENOTFOUND DB_HOST
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'DB_HOST',
+    fatal: true
+  }
+}
+Erro ao conectar ao banco de dados: HostNotFoundError [SequelizeHostNotFoundError]: getaddrinfo ENOTFOUND DB_HOST
+    at ConnectionManager.connect (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/mysql/connection-manager.js:96:17)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async ConnectionManager._connect (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:222:24)
+    at async /home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:174:32
+    at async ConnectionManager.getConnection (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:197:7)
+    at async /home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/sequelize.js:305:26
+    at async MySQLQueryInterface.tableExists (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/query-interface.js:102:17)
+    at async Function.sync (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/model.js:939:21)
+    at async Sequelize.sync (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/sequelize.js:377:9) {
+  parent: Error: getaddrinfo ENOTFOUND DB_HOST
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'DB_HOST',
+    fatal: true
+  },
+  original: Error: getaddrinfo ENOTFOUND DB_HOST
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'DB_HOST',
+    fatal: true
+  }
+}
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+Erro ao conectar ao banco de dados: HostNotFoundError [SequelizeHostNotFoundError]: getaddrinfo ENOTFOUND DB_HOST
+    at ConnectionManager.connect (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/mysql/connection-manager.js:96:17)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async ConnectionManager._connect (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:222:24)
+    at async /home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:174:32
+    at async ConnectionManager.getConnection (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:197:7)
+    at async /home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/sequelize.js:305:26
+    at async MySQLQueryInterface.tableExists (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/query-interface.js:102:17)
+    at async Function.sync (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/model.js:939:21)
+    at async Sequelize.sync (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/sequelize.js:377:9) {
+  parent: Error: getaddrinfo ENOTFOUND DB_HOST
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'DB_HOST',
+    fatal: true
+  },
+  original: Error: getaddrinfo ENOTFOUND DB_HOST
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'DB_HOST',
+    fatal: true
+  }
+}
+Erro ao conectar ao banco de dados: HostNotFoundError [SequelizeHostNotFoundError]: getaddrinfo ENOTFOUND DB_HOST
+    at ConnectionManager.connect (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/mysql/connection-manager.js:96:17)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async ConnectionManager._connect (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:222:24)
+    at async /home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:174:32
+    at async ConnectionManager.getConnection (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/connection-manager.js:197:7)
+    at async /home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/sequelize.js:305:26
+    at async MySQLQueryInterface.tableExists (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/dialects/abstract/query-interface.js:102:17)
+    at async Function.sync (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/model.js:939:21)
+    at async Sequelize.sync (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/sequelize/lib/sequelize.js:377:9) {
+  parent: Error: getaddrinfo ENOTFOUND DB_HOST
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'DB_HOST',
+    fatal: true
+  },
+  original: Error: getaddrinfo ENOTFOUND DB_HOST
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26) {
+    errno: -3008,
+    code: 'ENOTFOUND',
+    syscall: 'getaddrinfo',
+    hostname: 'DB_HOST',
+    fatal: true
+  }
+}
+/home/viplixco/tarifaminima.top/historia/server.js:32
+  });
+  ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+    at Module._compile (node:internal/modules/cjs/loader:1162:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+/home/viplixco/tarifaminima.top/historia/server.js:32
+  });
+  ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+    at Module._compile (node:internal/modules/cjs/loader:1162:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+/home/viplixco/tarifaminima.top/historia/routes/api.js:10
+router.post('/generate-tokens', generateTokens); // ✅ Correto
+                                ^
+
+ReferenceError: generateTokens is not defined
+    at Object.<anonymous> (/home/viplixco/tarifaminima.top/historia/routes/api.js:10:33)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/home/viplixco/tarifaminima.top/historia/server.js:5:19)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+/home/viplixco/tarifaminima.top/historia/routes/api.js:10
+router.post('/generate-tokens', generateTokens); // ✅ Correto
+                                ^
+
+ReferenceError: generateTokens is not defined
+    at Object.<anonymous> (/home/viplixco/tarifaminima.top/historia/routes/api.js:10:33)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/home/viplixco/tarifaminima.top/historia/server.js:5:19)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+Erro ao gerar história: BadRequestError: 400 This request has been blocked by our content filters.
+    at Function.generate (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/openai/error.js:45:20)
+    at OpenAI.makeStatusError (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/openai/core.js:293:33)
+    at OpenAI.makeRequest (/home/viplixco/nodevenv/tarifaminima.top/historia/16/lib/node_modules/openai/core.js:337:30)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async generateImage (/home/viplixco/tarifaminima.top/historia/utils/openai.js:23:20)
+    at async createStory (/home/viplixco/tarifaminima.top/historia/controllers/storyController.js:17:22) {
+  status: 400,
+  headers: {
+    'access-control-allow-origin': '*',
+    'alt-svc': 'h3=":443"; ma=86400',
+    'cf-cache-status': 'DYNAMIC',
+    'cf-ray': '907992419c0cf189-GRU',
+    connection: 'keep-alive',
+    'content-length': '188',
+    'content-type': 'application/json',
+    date: 'Sat, 25 Jan 2025 16:17:21 GMT',
+    'openai-organization': 'user-udilawbapqdiesosw26ucjht',
+    'openai-processing-ms': '17171',
+    'openai-version': '2020-10-01',
+    server: 'cloudflare',
+    'set-cookie': '__cf_bm=31YDl.ET_eyR6JsXO9G6.6.wK.szVQ38aQ16qv1Zn20-1737821841-1.0.1.1-jyJSJr1GlQMzGKh7AykAjb9Rd7bKD8OpnkIhh11Q2VCv1jRIstr_XKoxvqak7RpnANpBW.J35kPl.wO0ARiq9w; path=/; expires=Sat, 25-Jan-25 16:47:21 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None, _cfuvid=fkSKU1CLS6qblK_zgcRCM1RmvJdA6a_D0YsrORQUYpg-1737821841888-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None',
+    'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+    'x-content-type-options': 'nosniff',
+    'x-request-id': 'req_3b59634a19ba2ea4ff70349a9443e95e'
+  },
+  request_id: 'req_3b59634a19ba2ea4ff70349a9443e95e',
+  error: {
+    code: 'content_policy_violation',
+    message: 'This request has been blocked by our content filters.',
+    param: null,
+    type: 'invalid_request_error'
+  },
+  code: 'content_policy_violation',
+  param: null,
+  type: 'invalid_request_error'
+}

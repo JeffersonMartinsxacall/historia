@@ -1,0 +1,12 @@
+const express = require('express');
+const { generateTokens } = require('../controllers/tokenController');
+
+const router = express.Router();
+
+// Rota para gerar tokens (APENAS POST)
+router.post('/generate-tokens', generateTokens); // ✅ Correto
+
+router.get('/generate-tokens', (req, res) => {
+  res.status(405).json({ error: 'Método GET não é suportado. Use POST.' });
+});
+module.exports = router;
